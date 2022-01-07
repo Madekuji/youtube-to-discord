@@ -6,9 +6,12 @@ This script will allow you to send your latest YouTube Upload into your Discord 
 
 # Use
 
-Click on Libraries and paste in `12ig-WOMIoZS-dCdgfhsT17QM-idEg3CPhYjtD2CYgBZR2GYIPBxZ2PPm` (the project key for this script), Press `Look Up`.
+Click on Libraries and paste in `12ig-WOMIoZS-dCdgfhsT17QM-idEg3CPhYjtD2CYgBZR2GYIPBxZ2PPm` (the project key for this script), Press `Look Up`.<br>
+<img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/1-libraries.png?raw=true">
+<img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/2-add-library.png?raw=true"><br>
 
-Select `version 3` (most recent) and change the identifer from `basicyoutube` to `youtube` and press Add.
+Select `version 3` (most recent) and change the identifer from `basicyoutube` to `youtube` and press Add.<br>
+<img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/3-version-library.png?raw=true"><br>
 
 Now you can paste this code into your blank `Code.gs` file.
 
