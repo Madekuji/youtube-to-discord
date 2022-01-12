@@ -5,7 +5,7 @@ ytChannels = `
   Paste your YouTube channel IDs here (make sure they're on seperate lines, if you're adding multiple.)
   Your YouTube Channel ID will ALWAYS start with UC.
   Also, remove this all text...
-`
+`,
 mention = ``;
 
 
