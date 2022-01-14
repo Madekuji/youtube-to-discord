@@ -4,6 +4,8 @@ This repository outlines everything shown in in [this video](https://youtu.be/iA
 
 This script has two example codes, one will allow you to send your latest YouTube Upload into your Discord server, automatically; and the other will fetch a random video from a playlist.
 
+[Click Here](https://script.new) to quickly create a blank project.
+
 # Use
 
 Click on Libraries and paste in `12ig-WOMIoZS-dCdgfhsT17QM-idEg3CPhYjtD2CYgBZR2GYIPBxZ2PPm` (the project key for this script), Press `Look Up`.<br>
