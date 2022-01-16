@@ -12,7 +12,7 @@ Click on Libraries and paste in `12ig-WOMIoZS-dCdgfhsT17QM-idEg3CPhYjtD2CYgBZR2G
 <img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/1-libraries.png?raw=true">
 <img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/2-add-library.png?raw=true"><br>
 
-Select `version 5` (most recent & required for playlist code) and change the identifer from `basicyoutube` to `youtube` and press Add.<br>
+Select `version 4` (most recent & required for playlist code) and change the identifer from `basicyoutube` to `youtube` and press Add.<br>
 <img src="https://github.com/danielytuk/youtube-to-discord/blob/main/images/3-version-library.png?raw=true"><br>
 
 Now you can paste the code from any of the examples into your blank `Code.gs` file.
